@@ -1,0 +1,29 @@
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background: rgb(34, 197, 34);
+    color: white;
+}
+
+h1, h2, h3{
+    font-family: "Lobster", cursive;
+}
+
+nav{
+    background: yellowgreen;
+}
+
+.golfBall{
+    height: 250px;
+    width: 350px;
+}
+
+.golfCourse{
+    height: 300px;
+    width: 300px;
+}
+
+.weddingMain{
+    height: 300px;
+    width: auto;
+}
